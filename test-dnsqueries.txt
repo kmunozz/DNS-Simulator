@@ -1,0 +1,6 @@
+admissions.csun.edu 
+library.csun.edu 
+myraft.csumb.edu
+notarealdomaintoquery.com
+faculty.csumb.edu
+university.edu
